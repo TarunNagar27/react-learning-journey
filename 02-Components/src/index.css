@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Helvetica';
+}
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+.card{
+    background-color: rgb(237, 54, 100);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+
+}
+.nav{
+    background-color: rgb(20, 145, 234);
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin: 10px;
+}
+.btn{
+    background-color: rgb(242, 144, 6);
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-radius: 20px;
+    
+}
+.btn:hover{
+    background-color: rgb(189, 79, 0);
+}
