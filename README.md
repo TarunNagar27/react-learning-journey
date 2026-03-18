@@ -6,5 +6,6 @@ This repository documents my journey of learning React step by step.
 - [x] Vite Setup
 - [x] Components
 - [x] Props
+- [x] Module CSS
 - [ ] State
 - [ ] Hooks
