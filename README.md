@@ -8,5 +8,6 @@ This repository documents my journey of learning React step by step.
 - [x] Props
 - [x] Module CSS
 - [x] Added TailwindCSS
+- [x] Simple Ui using tailwindcss
 - [ ] State
 - [ ] Hooks
